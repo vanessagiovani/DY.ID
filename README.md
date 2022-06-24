@@ -5,3 +5,6 @@ In this website, there are 3 roles of:
 1) Guest who can View products and product details.
 2) Member who can View products and product details, Order, Cart, and Transaction History.
 3) Admin who can View products and product details, Manage (View, Add, Update, and Delete) Product, and Manage (View, Add, Update, and Delete) Category.
+
+Website Screenshot
+![1](https://raw.githubusercontent.com/vanessagiovani/dump/main/Register.jpg?token=GHSAT0AAAAAABVSC44XNZ4L4UZUYSG3KMCQYVV5DNA)
