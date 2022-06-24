@@ -20,4 +20,4 @@ Website Screenshot
 ![4](https://raw.githubusercontent.com/vanessagiovani/dump/main/Manage%20Category.jpg)
 
 - View Cart
-![5](https://raw.githubusercontent.com/vanessagiovani/dump/main/Manage%20Cart.jpg)
+![5](https://github.com/vanessagiovani/dump/blob/main/Manage%20Cart.jpg)
