@@ -7,4 +7,17 @@ In this website, there are 3 roles of:
 3) Admin who can View products and product details, Manage (View, Add, Update, and Delete) Product, and Manage (View, Add, Update, and Delete) Category.
 
 Website Screenshot
+- Register Account
 ![1](https://raw.githubusercontent.com/vanessagiovani/dump/main/Register.jpg?token=GHSAT0AAAAAABVSC44XNZ4L4UZUYSG3KMCQYVV5DNA)
+
+- View Product
+![2](https://raw.githubusercontent.com/vanessagiovani/dump/main/View%20Product.jpg?token=GHSAT0AAAAAABVSC44WC5QT5VMKDINXYMZIYVV5HRA)
+
+- Manage Product
+![3](https://raw.githubusercontent.com/vanessagiovani/dump/main/Manage%20Product.jpg?token=GHSAT0AAAAAABVSC44WONMRBB3GEWPDPBCCYVV5ILQ)
+
+- Manage Category
+![4](https://raw.githubusercontent.com/vanessagiovani/dump/main/Manage%20Category.jpg?token=GHSAT0AAAAAABVSC44WNDRFET3NP65UZYDIYVV5IWQ)
+
+- View Cart
+![5](https://raw.githubusercontent.com/vanessagiovani/dump/main/Manage%20Cart.jpg?token=GHSAT0AAAAAABVSC44XIV3PZAZZ3K4OPL4AYVV5JAQ)
