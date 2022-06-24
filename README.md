@@ -8,16 +8,16 @@ In this website, there are 3 roles of:
 
 Website Screenshot
 - Register Account
-![1](https://raw.githubusercontent.com/vanessagiovani/dump/main/Register.jpg)
+![1](https://github.com/vanessagiovani/dump/blob/main/Register.jpg)
 
 - View Product
-![2](https://raw.githubusercontent.com/vanessagiovani/dump/main/View%20Product.jpg)
+![2](https://github.com/vanessagiovani/dump/blob/main/View%20Product.jpg)
 
 - Manage Product
-![3](https://raw.githubusercontent.com/vanessagiovani/dump/main/Manage%20Product.jpg)
+![3](https://github.com/vanessagiovani/dump/blob/main/Manage%20Product.jpg)
 
 - Manage Category
-![4](https://raw.githubusercontent.com/vanessagiovani/dump/main/Manage%20Category.jpg)
+![4](https://github.com/vanessagiovani/dump/blob/main/Manage%20Category.jpg)
 
 - View Cart
 ![5](https://github.com/vanessagiovani/dump/blob/main/Manage%20Cart.jpg)
